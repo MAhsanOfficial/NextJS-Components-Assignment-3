@@ -1,0 +1,103 @@
+.aboutSection {
+    padding: 60px 0;
+    background-color: #f8f9fa;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  .colLeft,
+  .colRight {
+    flex: 1 1 50%;
+  }
+  
+  .heading {
+    margin-bottom: 30px;
+  }
+  
+  .entryTitle {
+    font-size: 36px;
+    font-weight: bold;
+    color: black;
+  }
+  .para{
+    color: black;
+  }
+  
+  .entryContent {
+    margin-bottom: 40px;
+    color: green;
+  }
+  .para {
+    color: black;
+  }
+  
+  .statsWrap {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .statsCount {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .ezucaVideo {
+    position: relative;
+  }
+  
+  .videoPlayBtn {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  .testimonialSection {
+    padding: 60px 0;
+    background-color: #e9ecef;
+  }
+  
+  .swiperContainer {
+    width: 100%;
+    overflow: hidden;
+  }
+  
+  .swiperWrapper {
+    display: flex;
+  }
+  
+  .swiperSlide {
+    flex: 0 0 100%;
+  }
+  
+  .userAvatar img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+  }
+  
+  .entryFooter {
+    margin-top: 20px;
+  }
+  
+  .testimonialUser {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  .swiperPagination {
+    margin-top: 20px;
+    text-align: center;
+  }
+  .span{
+    color: black;
+  }

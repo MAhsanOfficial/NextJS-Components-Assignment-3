@@ -1,0 +1,93 @@
+.heroContent {
+    /* Add Tailwind equivalent styles or custom styles */
+  }
+  
+  .siteHeader {
+    background-color: #f8f9fa;
+  }
+  
+  .topHeaderBar {
+    background-color: #e9ecef;
+    padding: 10px 0;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .headerRow {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .headerLeft, .headerRight {
+    display: flex;
+    align-items: center;
+  }
+  
+  .headerBarEmail, .headerBarPhone {
+    margin-right: 15px;
+  }
+  
+  .headerBarEmail a, .headerBarPhone p {
+    color: #343a40;
+    text-decoration: none;
+  }
+  
+  .headerBarSearch form {
+    display: flex;
+    align-items: center;
+  }
+  
+  .searchInput {
+    border: 1px solid white;
+    padding: 5px;
+    border-radius: 3px;
+  }
+  
+  .headerBarMenu ul {
+    list-style: none;
+    display: flex;
+    gap: 15px;
+  }
+  
+  .headerBarMenu a {
+    text-decoration: none;
+    color: #343a40;
+  }
+  
+  .navBar {
+    background-color: white;
+  }
+  
+  .navRow {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .siteBranding h1 {
+    margin: 0;
+  }
+  
+  .siteTitle a {
+    text-decoration: none;
+    color: black;
+  }
+  
+  .siteNavigation ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+  }
+  
+  .siteNavigation a {
+    text-decoration: none;
+    color: black;
+  }
+  
+  .currentMenuItem a {
+    font-weight: bold;
+  }
+  

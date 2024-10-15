@@ -1,0 +1,103 @@
+.clients-logo {
+  padding: 50px 0;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo-wrap img {
+  max-width: 100%;
+  height: auto;
+}
+
+.site-footer {
+  background-color: #333;
+  color: white;
+  padding: 50px 0;
+}
+
+.footer-widgets {
+  padding-bottom: 50px;
+}
+
+.foot-about {
+  color: #999;
+}
+
+.foot-logo img {
+  max-width: 100px;
+}
+
+.footer-copyright {
+  font-size: 14px;
+  margin-top: 15px;
+  color: #999;
+}
+
+.foot-contact ul,
+.quick-links ul,
+.follow-us-list {
+  list-style: none;
+  padding: 0;
+}
+
+.foot-contact ul li,
+.quick-links ul li,
+.follow-us-list li {
+  margin-bottom: 10px;
+}
+
+.facebook,
+.google,
+.instagram,
+.twitter {
+  margin-right: 15px;
+  color: white;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+.download-apps img {
+  max-width: 150px;
+}
+
+.footer-bar {
+  background-color: #222;
+  padding: 20px 0;
+}
+
+.footer-bar-nav ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.footer-bar-nav ul li {
+  margin-right: 15px;
+}
+
+.social-icons {
+  display: flex;
+  margin-top: 10px;
+}
+
+.follow-us-list a {
+  color: white;
+  text-decoration: none;
+}
+
+.follow-us-list a:hover {
+  text-decoration: underline;
+}
+.img{
+    position: relative;
+    left:50px
+}
+.para{
+    position: relative;
+    left: 46%;
+}
